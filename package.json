@@ -45,7 +45,6 @@
     "local-cypress": "^1.2.3"
   },
   "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true,
-    "commonPath": true
+    "nonGlobalStepDefinitions": true
   }
 }
